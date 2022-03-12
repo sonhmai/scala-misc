@@ -1,0 +1,1 @@
+Collected useful scala bits as I'm learning
